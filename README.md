@@ -6,6 +6,8 @@
 <p>Atualmente me dedico principalmente ao estudo de python, mas possuo experiência com C (linguagem principal usada na disciplina de Linguagens de Programação na UFRN), C++ (linguagem prncipal usada no desenvolvimento e projetos com Arduino) e outras linguagens. Pretendo me formar também em Análise e Desenvolvimento de Sistemas, o que acredito que irá fortalecer a minha base em linguagens de programação, além de promover habilidades e abrir novo horizontes no mercado de trabalho.</p>
 <p>Você pode encontrar mais detalhes sobre as minhas ações e contribuições no GitHub a partir dos quadros abaixo, bem como me contactar caso tenha interesse em realizar alguma atividade junto a mim. Desde já, obrigado.</p>
 
+##
+
 ### Habilidades
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
