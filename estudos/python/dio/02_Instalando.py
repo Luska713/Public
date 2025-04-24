@@ -1,2 +1,0 @@
-# É possível instalar o Python em diversas plataformas, nos sistemas Linux e Mac ele pode já estar instalado, enquanto no Windows é possível fazer o download do instalador.
-# A IDE é a ferramenta de desenvolvimento utilizada para escrever e testar os códigos com maior agilidade. Pode ser utilizado o VSCode, PyCharm ou Jupyter Notebook, entre outras.
